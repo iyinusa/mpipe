@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1004965126534",
+    "project_id": "mpipe-f592d",
+    "storage_bucket": "mpipe-f592d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004965126534:android:da7a8f9d59485133538c07",
+        "android_client_info": {
+          "package_name": "com.kenafftechnology.mpipe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004965126534-usl2nshgvn4bc0qc249oeu74410bjf5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjmN6zMYYe-IwvxCryMn8WhbuqlT9FKC0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004965126534-usl2nshgvn4bc0qc249oeu74410bjf5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
